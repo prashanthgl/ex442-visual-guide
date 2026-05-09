@@ -1,0 +1,1 @@
+# EX442 Visual Guide — Red Hat Certified Specialist in Performance Tuning

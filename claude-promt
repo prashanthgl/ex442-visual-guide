@@ -1,0 +1,7 @@
+You are a Red Hat expert and senior React developer. Build a stunning, comprehensive, interactive exam prep guide for the EX442 — Red Hat Certified Specialist in Performance Tuning certification, using React and architecture below. Deploy it to GitHub Pages.
+
+GitHub username: prashanthgl
+Repo name: ex442-visual-guide
+Live URL will be: https://prashanthgl.github.io/ex442-visual-guide/
+
+The git repo already exists locally at the working directory with a remote already configured. Do not run git init or git remote add. preparation_guide.md file exists in the repo that contains the study points mentioned by redhat exam guide. Use this as an inspiration to create the content. Be as thorough as possible and provide practical examples when needed. Cover all possible scenarios with awesome workflow visuals. I'm not a frontend engineer, so take this opportunity to teach me something as well. Use HashRouter instead of BrowserRouter. And make sure to check all the pages are rendered without any errors. And in the content make sure to go depth in linux internals as i want to be linux expert as well. Do not use redhat brand colors as i'm already tired of it. i should be able to run npm run deploy and it should automatically deploy. please add the required read me content for this repo.
